@@ -6,7 +6,7 @@ It is organised into distinct sections by discipline, each documenting the tools
 
 ---
 
-## 🔐 Cyber Security
+## [🔐 Cyber Security](https://github.com/CharEms-W/Portfolio/tree/main/Cyber%20Security/)
 
 This section contains my learnings and practical implementations in the field of cyber security. Topics include, but are not limited to:
 
@@ -30,7 +30,7 @@ This section contains my learnings and practical implementations in the field of
 
 ---
 
-## 🛠 Vulnerability Research
+## [🛠 Vulnerability Research](https://github.com/CharEms-W/Portfolio/tree/main/VR/)
 
 This section documents my studies and practical exercises in identifying, analyzing, and exploiting system and software vulnerabilities.
 
