@@ -4,11 +4,11 @@ This section contains all coursework, notes, and labs related to cyber security.
 
 ## Contents
 
-- **Cyber Security Week 1**
+- **[Cyber Security Week 1](https://github.com/CharEms-W/Portfolio/blob/main/Cyber%20Security/Cyber%20Security.%20Week%201%20.pdf/)**
   - *Differences in Vulnerability, Threat & Attack | Randsomware attacks on crypto | Linux Systems, etc/passwd/etc purposes & functionality | Vulnerability scan & assessment | Reconnaissance scan*
-- **Cyber Security Week 2**
+- **[Cyber Security Week 2](https://github.com/CharEms-W/Portfolio/blob/main/Cyber%20Security/Cyber%20Security.%20Week%202%20.pdf/)**
   - *E2EE in voting systems | Primary modes in Snort | Ice Room & Metaspolit on THM | Securing Linux systems*
-- **Cyber Security Week 3**
+- **[Cyber Security Week 3](https://github.com/CharEms-W/Portfolio/blob/main/Cyber%20Security/Cyber%20Security.%20Week%203%20.pdf/)**
   - *Social engineering | John the Ripper | Finding flag & Grep*
     
 - **System Hardening**
